@@ -1,1 +1,1 @@
-# spring-service-example
+# Learning spring
